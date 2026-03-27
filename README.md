@@ -55,7 +55,11 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+
+<img width="932" height="521" alt="image" src="https://github.com/user-attachments/assets/f9ae140b-bacd-4498-9fe6-71150ca6b996" />
+
+<img width="668" height="846" alt="image" src="https://github.com/user-attachments/assets/faf6b665-4433-43db-98e3-e746fc6f82cd" />
+
 
 **CALCULATIONS:**
 
@@ -76,7 +80,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
+**Result:**
+Hence the mode characteristics of reflex klystron are studied.
    	
 			
 			
