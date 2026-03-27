@@ -15,9 +15,7 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 7.	Waveguide stands MTI/NVIS
 8.	VSWR meter MTI VS 501/NVIS
 9.	Cathode Ray Oscilloscope Scientech -801C
-    
 **Experimental Setup:**
-
 <img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
@@ -55,10 +53,11 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
+<img width="772" height="299" alt="image" src="https://github.com/user-attachments/assets/aea4963c-23c6-4456-9e1e-6bfad8d0ac78" />
 
-<img width="932" height="521" alt="image" src="https://github.com/user-attachments/assets/f9ae140b-bacd-4498-9fe6-71150ca6b996" />
+**graph:**
 
-<img width="668" height="846" alt="image" src="https://github.com/user-attachments/assets/faf6b665-4433-43db-98e3-e746fc6f82cd" />
+<img width="1210" height="1554" alt="image" src="https://github.com/user-attachments/assets/da09642d-5a8d-4a73-9d29-d12431db2df3" />
 
 
 **CALCULATIONS:**
@@ -80,8 +79,10 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-**Result:**
-Hence the mode characteristics of reflex klystron are studied.
+    **Result:**
+
+	Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
+			
    	
 			
 			
